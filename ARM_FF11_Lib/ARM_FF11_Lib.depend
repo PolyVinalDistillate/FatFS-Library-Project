@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1423513944 source:c:\users\nick\desktop\ff11\src\ff.c
+	"ff.h"
+	"diskio.h"
+	<stdarg.h>
+
+1423513944 c:\users\nick\desktop\ff11\src\ff.h
+	"integer.h"
+	"ffconf.h"
+
+1423513944 c:\users\nick\desktop\ff11\src\integer.h
+	<windows.h>
+	<tchar.h>
+
+1433430933 c:\users\nick\desktop\ff11\src\ffconf.h
+
+1433085920 c:\users\nick\desktop\ff11\src\diskio.h
+	"integer.h"
+
+1446586506 source:c:\users\nick\desktop\ff11\arm_ff11_lib\main.c
+	"stdint.h"
+	"stdio.h"
+	"string.h"
+	"../src/integer.h"
+	"../src/diskio.h"
+	"LowLevel.h"
+
+1433034715 source:c:\users\nick\desktop\ff11\src\diskio.c
+	"diskio.h"
+	"..\ARM_FF11_Lib\LowLevel.h"
+
+1435433097 c:\users\nick\desktop\ff11\arm_ff11_lib\lowlevel.h
+	"stdint.h"
+
+1423513944 source:c:\users\nick\desktop\ff11\src\option\unicode.c
+	"../ff.h"
+	"cc932.c"
+	"cc936.c"
+	"cc949.c"
+	"cc950.c"
+	"ccsbcs.c"
+
+1423513944 c:\users\nick\desktop\ff11\src\option\cc932.c
+	"../ff.h"
+
+1423513944 c:\users\nick\desktop\ff11\src\option\cc936.c
+	"../ff.h"
+
+1423513944 c:\users\nick\desktop\ff11\src\option\cc949.c
+	"../ff.h"
+
+1423513944 c:\users\nick\desktop\ff11\src\option\cc950.c
+	"../ff.h"
+
+1423513944 c:\users\nick\desktop\ff11\src\option\ccsbcs.c
+	"../ff.h"
+
